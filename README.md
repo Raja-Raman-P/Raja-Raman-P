@@ -1,5 +1,5 @@
 ![logo align=center width="600"](https://github.com/Raja-Raman-P/Raja-Raman-P/blob/main/Github%20header.gif)
-<h1 align="center">Hi 👋, I'm Raja Raman</h1>
+<h1 align="center">I'm Raja Raman</h1>
 <h3 align="center">Aspiring Web developer</h3>
 
 <img align="right" alt="measdeveloper" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
